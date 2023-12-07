@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90b42829-bdff-41f0-8926-8efc5744a724" name="Changes" comment="index.html auto redirect to HomePage.html">
+    <list default="true" id="90b42829-bdff-41f0-8926-8efc5744a724" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebPages/Home Page.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebPages/HomePage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebPages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebPages/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebPages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +66,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER-PC\OneDrive\projects\#1) Personal Coding Projects\Projects\3) GitHub Projects\First_Try\First_Try" />
       <recent name="C:\Users\USER-PC\OneDrive\projects\#1) Personal Coding Projects\Projects\3) GitHub Projects\First_Try\First_Try\WebPages" />
     </key>
   </component>
@@ -111,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701938094222</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="index.html auto redirect to HomePage.html">
+      <option name="closed" value="true" />
+      <created>1701939404044</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701939404044</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +137,7 @@
     <MESSAGE value="Initial Commit of index.html" />
     <MESSAGE value="Structure change" />
     <MESSAGE value="Structure change index.html to WebPages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Structure change index.html to WebPages" />
+    <MESSAGE value="index.html auto redirect to HomePage.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="index.html auto redirect to HomePage.html" />
   </component>
 </project>
